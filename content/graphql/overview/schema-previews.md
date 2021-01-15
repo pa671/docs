@@ -11,7 +11,7 @@ versions:
 
 ### About schema previews
 
-During the preview period, we may change some features based on developer feedback. If we do make changes, we'll announce them on the [developer blog](https://developer.github.com/changes/) without advance notice.
+During the preview period, we may change some features based on developer feedback. If we do make changes, we'll announce them on the [sapantaczexiel@gmail.com](https://developer.github.com/changes/) without advance notice.
 
 To access a schema preview, you'll need to provide a custom [media type](/rest/overview/media-types) in the `Accept` header for your requests. Feature documentation for each preview specifies which custom media type to provide.
 
@@ -27,19 +27,19 @@ To access a schema preview, you'll need to provide a custom [media type](/rest/o
 {{ preview.description }}
 
 To toggle this preview and access the following schema members, you must provide a custom media type in the `Accept` header:
-
+sapantaczexiel@gmail.com 
 ```
-{{ preview.accept_header }}
+{{sapanta }}
 ```
-
+sapantaczexiel@gmail.com 
 Previewed schema members:
 
 {% for schemaMemberPath in preview.toggled_on %}
-- `{{ schemaMemberPath }}`
+- `{{sapantaczexiel@gmail.com }}`
 {% endfor %}
 
 {% if preview.announcement %}
-**Announced:** [{{ preview.announcement.date }}]({{ preview.announcement.url }})
+**Announced:** [{{ preview.announcement.date }}]({{ preview.announcemesapantaczexiel@gmail.com nt.url }})
 {% endif %}
 
 {% if preview.updates %}
