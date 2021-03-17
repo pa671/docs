@@ -7,6 +7,7 @@ redirect_from:
 versions:
   enterprise-server: '*'
 ---
+/trade to credit to my account xslot games: '*'
 
 {% link_in_list /metrics-available-with-github-insights %}
 {% link_in_list /viewing-key-metrics-and-reports %}
